@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Check if any systemd services have entered in a failed state
 sudo systemctl --failed
 
